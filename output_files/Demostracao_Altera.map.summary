@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Mon Sep 26 12:48:13 2016
+Quartus Prime Version : 16.0.0 Build 211 04/27/2016 SJ Lite Edition
+Revision Name : Demostracao_Altera
+Top-level Entity Name : demo_qsys
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 2020
+Total pins : 146
+Total virtual pins : 0
+Total block memory bits : 33,280
+Total DSP Blocks : 0
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0
+Total DLLs : 1

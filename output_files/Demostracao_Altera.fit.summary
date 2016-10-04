@@ -1,0 +1,20 @@
+Fitter Status : Successful - Mon Sep 26 12:53:14 2016
+Quartus Prime Version : 16.0.0 Build 211 04/27/2016 SJ Lite Edition
+Revision Name : Demostracao_Altera
+Top-level Entity Name : demo_qsys
+Family : Cyclone V
+Device : 5CSXFC6C6U23C8ES
+Timing Models : Preliminary
+Logic utilization (in ALMs) : 1,350 / 41,910 ( 3 % )
+Total registers : 2112
+Total pins : 146 / 342 ( 43 % )
+Total virtual pins : 0
+Total block memory bits : 33,280 / 5,662,720 ( < 1 % )
+Total RAM Blocks : 5 / 553 ( < 1 % )
+Total DSP Blocks : 0 / 112 ( 0 % )
+Total HSSI RX PCSs : 0 / 6 ( 0 % )
+Total HSSI PMA RX Deserializers : 0 / 6 ( 0 % )
+Total HSSI TX PCSs : 0 / 6 ( 0 % )
+Total HSSI PMA TX Serializers : 0 / 6 ( 0 % )
+Total PLLs : 0 / 12 ( 0 % )
+Total DLLs : 1 / 4 ( 25 % )

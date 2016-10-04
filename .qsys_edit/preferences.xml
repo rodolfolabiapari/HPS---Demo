@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable filter="All Interfaces">
+  <columns>
+   <connections preferredWidth="175" />
+   <irq preferredWidth="47" />
+  </columns>
+ </systemtable>
+ <library
+   expandedCategories="Library/Basic Functions/Bridges and Adaptors/Memory Mapped,Library/Basic Functions/Simulation; Debug and Verification/Debug and Performance,Library/Interface Protocols,Library/Basic Functions,Library,Library/Basic Functions/Bridges and Adaptors,Library/Basic Functions/Simulation; Debug and Verification,Project,Library/Interface Protocols/Serial" />
+ <window width="1296" height="776" x="-8" y="-8" />
+ <generation synthesis="VHDL" />
+ <hdlexample language="VHDL" />
+</preferences>
